@@ -78,6 +78,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 16. [image-classification-mobile](https://github.com/osmr/imgclsmob): Collection of classification models pretrained on the ImageNet-1K.
 17. [medicaltorch](https://github.com/perone/medicaltorch): A medical imaging framework for Pytorch http://medicaltorch.readthedocs.io
 18. [neural-style-pt](https://github.com/ProGamerGov/neural-style-pt): A PyTorch implementation of Justin Johnson's Neural-style.
+19. [pytorch-convis](https://github.com/ProGamerGov/pytorch-convis): A tool to visualize convolutional layer activations on an input image. 
 
 ### Probabilistic/Generative Libraries:
 
